@@ -1,0 +1,48 @@
+https://sbm.rrd.com/tmtrack/tmtrack.dll? rrd-time-trax
+
+https://rrdcitrix.rrd.com/Citrix/XenApp/auth/silentDetection.aspx rrd-citrix
+
+ssl2.rrd.com/
+
+apps
+https://docs.google.com/spreadsheets/d/1QSZujSq4PUKzil65oD2AV0RmitUhlGprxQkoHNnShY4/edit?ts=58ab6a04#gid=1613556597
+
+service now
+https://sso.wip.rrd.com/adfs/ls/?SAMLRequest=nVPLbtswEPwVgXc9qNSOQlgGVAVFDCSpYKs99EaTq4QARSpcynb%2BvpLsJD4kRtHr7nB3Zna4QN7qtGNF75%2FNGl56QB8cWm2QHTs56Z1hlqNCZngLyLxgm%2BLhnqVRwjpnvRVWk6BABOeVNaU12LfgNuB2SsCv9X1Onr3vkMWxczLCYz00dh8J28aG7zr%2BBJG0JPhhnYCJSk4arhFIsLrNyeaxhGa%2BFUI0dJbebGmTXacANMuSOb8Rsyt%2BPQCx4ohqBx9PEXtYGfTc%2BJykCc3ChIY0q1PKruYsmUX0W%2FKHBNVJxHdlpDJPlxVvjyBkd3VdhdXPTT0N2CkJ7nFA%2F7vY3%2BBw8GtgFiVkuZjsZhNnd36By3T4m%2B1keWHvIj6fftrVsZHv6rayWonXoNDa7ksH3A8avOthOkfL%2FdcEaESnipJhM0EZtFzpQkoHiCR%2BX3QKFsjptkNCPBx8UNq2407h6AEcuPDvLpzDSj1oXEPzX55chAkmxtlDeUzO3jo5JgHEwLN23GBnnX9z7jNGy1PzC30f7fPPtfwL&RelayState=https%3A%2F%2Frrd.service-now.com%2Fnavpage.do
+
+rrd-mail
+https://sso.wip.rrd.com/adfs/ls/?SAMLRequest=fVLJTsMwEL0j8Q%2BW79kKEshqggoIUYklalMO3Iw9CQYvweO08Pe4KYhygJv9PPOW8UzP3o0ma%2FConC1pkeaUgBVOKtuVdNVcJaf0rDo8mCI3umezITzbBbwNgIHETotsfCjp4C1zHBUyyw0gC4ItZ7c3bJLmrPcuOOE0JfPLkj7JVsqX13g3SnS878SrexHStLqPndpKUEI64yh5%2BLY12dqaIw4wtxi4DRHKi5OkmCT5aVMcs%2FyYHZ08UlJ%2FKZ0ru0vwn62nXRGy66apk%2Fp%2B2YwEayXB38XqknbOdRpS4cxWvuaIah3hlmsESmaI4EM0eOEsDgb8EvxaCVgtbkr6HEKPLMs2m036Q5PxzHu5Owmk1ThWNibze%2FP83zf%2F1qXVD%2FM026Oqvr5rm2J%2BWTutxAeZae02Fx54iBGCH2KCK%2BcND3%2BrFWkxIkom7VjKBos9CNUqkJRk1U71917EbfkE&RelayState=https%3A%2F%2Fwww.google.com%2Fa%2Frrd.com%2FServiceLogin%3Fservice%3Dmail%26passive%3Dtrue%26rm%3Dfalse%26continue%3Dhttps%253A%252F%252Fmail.google.com%252Fmail%252F%26ss%3D1%26ltmpl%3Ddefault%26ltmplcache%3D2%26emr%3D1%26osid%3D1#
+
+http://users.cs.cf.ac.uk/Dave.Marshall/PERL/node104.html perl-special variables
+
+https://apps.mirafra.com/recruit/home/index mirafra_apps
+
+Payslip
+https://webone.teksystems.com/FCSPayroll/login.do
+
+time& Exp
+https://timeandexpense.teksystems.com/webtime/
+
+t&e
+https://fsprd.allegisgroup.com/psp/FSPRD/EMPLOYEE/ERP/?cmd=logout
+
+time cards
+https://hrprd.allegisgroup.com/psp/HRPRD/EMPLOYEE/HRMS/?cmd=logout
+
+tek_apps
+http://10.188.193.61/TEKInternalApps/UserLogin.aspx
+
+tek_ticket
+http://10.188.10.122/srp/PostTicket.aspx
+
+ticket srp
+http://10.188.10.122/srp/
+
+outlook_web
+https://outlook.allegisgroup.com/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2foutlook.allegisgroup.com%2fowa%2f
+
+reset_passwd tek
+https://password.allegisgroup.com/
+AI
+https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/
+https://www.edx.org/

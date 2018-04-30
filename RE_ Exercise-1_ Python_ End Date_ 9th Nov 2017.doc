@@ -1,0 +1,1943 @@
+Return-Path: <dsnathan@mirafra.com>
+X-Original-To: Esg-python@mirafra.com
+Delivered-To: Esg-python@mirafra.com
+Received: from localhost (localhost [127.0.0.1])
+	by mail.mirafra.com (Postfix) with ESMTP id 690DF2540A29
+	for <Esg-python@mirafra.com>; Thu,  9 Nov 2017 15:27:23 +0530 (IST)
+X-Virus-Scanned: amavisd-new at mirafra.com
+X-Spam-Flag: NO
+X-Spam-Score: -2.899
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.899 required=6 tests=[ALL_TRUSTED=-1,
+	BAYES_00=-1.9, HTML_MESSAGE=0.001] autolearn=ham
+Received: from mail.mirafra.com ([127.0.0.1])
+	by localhost (mail.mirafra.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id CEzyJiyAITZm for <Esg-python@mirafra.com>;
+	Thu,  9 Nov 2017 15:27:15 +0530 (IST)
+Received: from Mirafra037 (unknown [115.254.51.11])
+	by mail.mirafra.com (Postfix) with ESMTPSA id F02A42540A2B
+	for <Esg-python@mirafra.com>; Thu,  9 Nov 2017 15:27:13 +0530 (IST)
+From: "Senthilnathan D" <dsnathan@mirafra.com>
+To: <Esg-python@mirafra.com>
+References: 
+In-Reply-To: 
+Subject: RE: Exercise-1: Python: End Date: 9th Nov 2017
+Date: Thu, 9 Nov 2017 15:27:20 +0530
+Message-ID: <011001d35941$2262e850$6728b8f0$@mirafra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0111_01D3596F.3C2620D0"
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AdNXwkbs9geuuRJ+Q5u0guAf32o01AAuFmlgADGYo1A=
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0111_01D3596F.3C2620D0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Sprint: 4
+
+
+ 
+
+Stop-1
+
+Stop-2
+
+Stop-3
+
+Stop-4
+
+Stop-5
+
+
+Stop-1
+
+0
+
+Adults:10
+
+Child: 6
+
+Adults:30
+
+Trip Discount if :
+
+PASSENGER >2
+
+With
+
+20% discount on TOTAL
+
+Adults:45
+
+ 
+
+Adults:60
+
+
+Stop-2
+
+Adults:50
+
+ 
+
+0
+
+Adults:60
+
+Child:40
+
+Adults:80
+
+Adults:70
+
+
+Stop-3
+
+Adults:80
+
+Adults:70
+
+Passenger Discount: for every 2nd trip for the passenger
+
+With
+
+50% discount on TOTAL
+
+0
+
+Adults:40
+
+Child:20
+
+Adults:30
+
+Trip Discount if :
+
+PASSENGER >2
+
+With
+
+20% discount on ADULT
+
+Adults:20
+
+
+Stop-4
+
+Adults:90
+
+Trip Discount if :
+
+PASSENGER >2
+
+With
+
+20% discount on CHILD
+
+Adults:30
+
+Adults:10
+
+ 
+
+0
+
+Adults:50
+
+Passenger Discount: for every 3rd  trip for the passenger
+
+With
+
+50% discount on ADULT
+
+
+Stip-5
+
+Adults:100
+
+Adults:20
+
+Adults:5
+
+Adults:60
+
+Child:20
+
+0
+
+ 
+
+ 
+
+
+Story
+
+Description
+
+
+S4-Story8
+
+Apply discount as mentioned for the passengers.
+
+
+S4-Story9
+
+Configure the discount from the external txt file.
+
+
+S4-Story10
+
+Configure the discount from the program and the same shall be updated in the
+txt file which shall be used when the user reopens the program.
+
+ 
+
+Regards, 
+
+Senthilnathan D
+
+ 
+
+From: Senthilnathan D [mailto:dsnathan@mirafra.com] 
+Sent: Wednesday, November 8, 2017 3:52 PM
+To: 'Esg-python@mirafra.com' <Esg-python@mirafra.com>
+Subject: RE: Exercise-1: Python: End Date: 9th Nov 2017
+
+ 
+
+Sprint: 3
+
+
+ 
+
+Stop-1
+
+Stop-2
+
+Stop-3
+
+Stop-4
+
+Stop-5
+
+
+Stop-1
+
+0
+
+Adults:10
+
+Child: 6
+
+Adults:30
+
+Trip Discount if :
+
+PASSENGER >2
+
+With
+
+20% discount on TOTAL
+
+Adults:45
+
+ 
+
+Adults:60
+
+
+Stop-2
+
+Adults:50
+
+ 
+
+0
+
+Adults:60
+
+Child:40
+
+Adults:80
+
+Adults:70
+
+
+Stop-3
+
+Adults:80
+
+Adults:70
+
+ 
+
+0
+
+Adults:40
+
+Child:20
+
+Trip Discount if :
+
+PASSENGER >2
+
+With
+
+20% discount on ADULT
+
+Adults:20
+
+
+Stop-4
+
+Adults:90
+
+Trip Discount if :
+
+PASSENGER >2
+
+With
+
+20% discount on CHILD
+
+Adults:30
+
+Adults:10
+
+ 
+
+0
+
+Adults:50
+
+ 
+
+
+Stip-5
+
+Adults:100
+
+Adults:20
+
+Adults:5
+
+Adults:60
+
+Child:20
+
+0
+
+ 
+
+ 
+
+
+Story
+
+Description
+
+
+S3-Story5
+
+Apply discount as mentioned for the route.
+
+
+S3-Story6
+
+Handle exception for all the user input. Give user appropriate information
+to correct the input and continue with the program.
+
+
+S3-Story7
+
+Handle exception for all the input given in the flat file. Give user
+appropriate information to correct the input and continue with the program.
+
+ 
+
+ 
+
+From: Senthilnathan D [mailto:dsnathan@mirafra.com] 
+Sent: Tuesday, November 7, 2017 5:47 PM
+To: 'Esg-python@mirafra.com' <Esg-python@mirafra.com
+<mailto:Esg-python@mirafra.com> >
+Subject: Exercise-1: Python: End Date: 9th Nov 2017
+
+ 
+
+Exercise: 1: 
+
+Sprint: 1
+
+
+ 
+
+Stop-1
+
+Stop-2
+
+Stop-3
+
+Stop-4
+
+Stop-5
+
+
+Stop-1
+
+0
+
+Adults:10
+
+Adults:30
+
+ 
+
+Adults:45
+
+ 
+
+Adults:60
+
+
+Stop-2
+
+Adults:50
+
+ 
+
+0
+
+Adults:60
+
+ 
+
+Adults:80
+
+Adults:70
+
+
+Stop-3
+
+Adults:80
+
+Adults:70
+
+ 
+
+0
+
+Adults:40
+
+ 
+
+Adults:20
+
+
+Stop-4
+
+Adults:90
+
+Adults:30
+
+Adults:10
+
+ 
+
+0
+
+Adults:50
+
+ 
+
+
+Stip-5
+
+Adults:100
+
+Adults:20
+
+Adults:5
+
+Adults:60
+
+0
+
+ 
+
+
+ 
+
+Min age
+
+Max age
+
+
+Adult
+
+13
+
+60
+
+ 
+
+
+Story
+
+Description
+
+
+S1-Story1: Booking
+
+ 
+
+ 
+
+ 
+
+User shall be prompted to give the below information. Based on the user
+input the ticket shall be calculated based on the following:
+
+1.       Starting and ending stops
+
+2.       Age of the passengers 
+
+If the age below the min age and above max age shall be getting 50%
+discount.
+
+ 
+
+Sprint: 2
+
+
+ 
+
+Stop-1
+
+Stop-2
+
+Stop-3
+
+Stop-4
+
+Stop-5
+
+
+Stop-1
+
+0
+
+Adults:10
+
+Child: 6
+
+Adults:30
+
+ 
+
+Adults:45
+
+ 
+
+Adults:60
+
+
+Stop-2
+
+Adults:50
+
+ 
+
+0
+
+Adults:60
+
+Child:40
+
+Adults:80
+
+Adults:70
+
+
+Stop-3
+
+Adults:80
+
+Adults:70
+
+ 
+
+0
+
+Adults:40
+
+Child:20
+
+Adults:20
+
+
+Stop-4
+
+Adults:90
+
+Adults:30
+
+Adults:10
+
+ 
+
+0
+
+Adults:50
+
+ 
+
+
+Stip-5
+
+Adults:100
+
+Adults:20
+
+Adults:5
+
+Adults:60
+
+Child:20
+
+0
+
+ 
+
+
+ 
+
+Min age
+
+Max age
+
+
+Adult
+
+13
+
+60
+
+
+Child
+
+5
+
+12
+
+ 
+
+
+Story
+
+Description
+
+
+S2-Story2: Booking
+
+ 
+
+ 
+
+ 
+
+User shall be prompted to give the below information. Based on the user
+input the ticket shall be calculated based on the following:
+
+1.       Starting and ending stops
+
+2.       Age of the passengers 
+
+Child below 5 years shall not be charged and passengers above 60 shall be
+charged 50% of the adult charges. In case Child value is not explicitly
+given in the table; their charges shall be 50% of the adult charges.
+
+
+S2-Story3
+
+Admin shall be able to input the passenger's ticket value and age limit from
+an external txt file. The value from the txt file shall be taken to fill the
+ticketing table.
+
+
+S2-Story4
+
+Admin shall be able to modify the passenger's ticket value programmatically
+and the same shall be updated in the external txt file. When the program is
+reopened the previous made in passenger's ticket shall be retained.
+
+ 
+
+
+------=_NextPart_000_0111_01D3596F.3C2620D0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US =
+link=3D"#0563C1" vlink=3D"#954F72"><div class=3DWordSection1><p =
+class=3DMsoNormal>Sprint: 4<span =
+style=3D'font-size:11.0pt'><o:p></o:p></span></p><table =
+class=3DMsoTableGrid border=3D1 cellspacing=3D0 cellpadding=3D0 =
+style=3D'border-collapse:collapse;border:none'><tr><td width=3D54 =
+valign=3Dtop style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o=
+:p></span></p></td><td width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-1<o:p></o=
+:p></span></p></td><td width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-2<o:p></o=
+:p></span></p></td><td width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-3<o:p></o=
+:p></span></p></td><td width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-4<o:p></o=
+:p></span></p></td><td width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-5<o:p></o=
+:p></span></p></td></tr><tr><td width=3D54 valign=3Dtop =
+style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-1<o:p></o=
+:p></span></p></td><td width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>0<o:p></o:p></=
+span></p></td><td width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:10<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Child: =
+6<o:p></o:p></span></p></td><td width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:30<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif;color:red'>Trip=
+ Discount if :<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>PASSENGER =
+&gt;2<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>With<o:p></o:p=
+></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>20% discount =
+on TOTAL<o:p></o:p></span></p></td><td width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:45<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o=
+:p></span></p></td><td width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:60<o:p>=
+</o:p></span></p></td></tr><tr><td width=3D54 valign=3Dtop =
+style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-2<o:p></o=
+:p></span></p></td><td width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:50<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o=
+:p></span></p></td><td width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>0<o:p></o:p></=
+span></p></td><td width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:60<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Child:40<o:p><=
+/o:p></span></p></td><td width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:80<o:p>=
+</o:p></span></p></td><td width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:70<o:p>=
+</o:p></span></p></td></tr><tr><td width=3D54 valign=3Dtop =
+style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-3<o:p></o=
+:p></span></p></td><td width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:80<o:p>=
+</o:p></span></p></td><td width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:70<o:p>=
+</o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif;color:#00B050'>=
+Passenger Discount</span></b><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>: for every =
+2<sup>nd</sup> trip for the passenger<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>With<o:p></o:p=
+></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>50% discount =
+on TOTAL<o:p></o:p></span></p></td><td width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>0<o:p></o:p></=
+span></p></td><td width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:40<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Child:20<o:p><=
+/o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:30<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif;color:red'>Trip=
+ Discount </span><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>if =
+:<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>PASSENGER =
+&gt;2<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>With<o:p></o:p=
+></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>20% discount =
+on ADULT<o:p></o:p></span></p></td><td width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:20<o:p>=
+</o:p></span></p></td></tr><tr><td width=3D54 valign=3Dtop =
+style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-4<o:p></o=
+:p></span></p></td><td width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:90<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif;color:red'>Trip=
+ Discount </span><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>if =
+:<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>PASSENGER =
+&gt;2<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>With<o:p></o:p=
+></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>20% discount =
+on CHILD<o:p></o:p></span></p></td><td width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:30<o:p>=
+</o:p></span></p></td><td width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:10<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o=
+:p></span></p></td><td width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>0<o:p></o:p></=
+span></p></td><td width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:50<o:p>=
+</o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif;color:#00B050'>=
+Passenger Discount</span></b><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>: for every =
+3<sup>rd</sup>&nbsp; trip for the passenger<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>With<o:p></o:p=
+></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>50% discount =
+on ADULT<o:p></o:p></span></p></td></tr><tr><td width=3D54 valign=3Dtop =
+style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stip-5<o:p></o=
+:p></span></p></td><td width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:100<o:p=
+></o:p></span></p></td><td width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:20<o:p>=
+</o:p></span></p></td><td width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:5<o:p><=
+/o:p></span></p></td><td width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:60<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Child:20<o:p><=
+/o:p></span></p></td><td width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>0<o:p></o:p></=
+span></p></td></tr></table><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</=
+o:p></span></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><table =
+class=3DMsoTableGrid border=3D1 cellspacing=3D0 cellpadding=3D0 =
+style=3D'border-collapse:collapse;border:none'><tr><td width=3D126 =
+valign=3Dtop style=3D'width:94.25pt;border:solid windowtext =
+1.0pt;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Story<o:p></o=
+:p></span></p></td><td width=3D498 valign=3Dtop =
+style=3D'width:373.25pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Description<o=
+:p></o:p></span></p></td></tr><tr style=3D'height:20.65pt'><td =
+width=3D126 valign=3Dtop style=3D'width:94.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:20.65pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>S4-Story8<o:p=
+></o:p></span></p></td><td width=3D498 valign=3Dtop =
+style=3D'width:373.25pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;height:20.65pt'><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Apply =
+discount as mentioned for the =
+passengers.<o:p></o:p></span></p></td></tr><tr =
+style=3D'height:20.65pt'><td width=3D126 valign=3Dtop =
+style=3D'width:94.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:20.65pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>S4-Story9<o:p=
+></o:p></span></p></td><td width=3D498 valign=3Dtop =
+style=3D'width:373.25pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;height:20.65pt'><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Configure =
+the discount from the external txt =
+file.<o:p></o:p></span></p></td></tr><tr style=3D'height:20.65pt'><td =
+width=3D126 valign=3Dtop style=3D'width:94.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:20.65pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>S4-Story10<o:=
+p></o:p></span></p></td><td width=3D498 valign=3Dtop =
+style=3D'width:373.25pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;height:20.65pt'><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Configure =
+the discount from the program and the same shall be updated in the txt =
+file which shall be used when the user reopens the =
+program.<o:p></o:p></span></p></td></tr></table><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+>Regards, <o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+>Senthilnathan D<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>From:</span><=
+/b><span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'> =
+Senthilnathan D [mailto:dsnathan@mirafra.com] <br><b>Sent:</b> =
+Wednesday, November 8, 2017 3:52 PM<br><b>To:</b> =
+'Esg-python@mirafra.com' =
+&lt;Esg-python@mirafra.com&gt;<br><b>Subject:</b> RE: Exercise-1: =
+Python: End Date: 9th Nov 2017<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Sprint: =
+3<span style=3D'font-size:11.0pt'><o:p></o:p></span></p><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+style=3D'border-collapse:collapse'><tr><td width=3D54 valign=3Dtop =
+style=3D'width:40.25pt;border:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o=
+:p></span></p></td><td width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-1<o:p></o=
+:p></span></p></td><td width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-2<o:p></o=
+:p></span></p></td><td width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-3<o:p></o=
+:p></span></p></td><td width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-4<o:p></o=
+:p></span></p></td><td width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-5<o:p></o=
+:p></span></p></td></tr><tr><td width=3D54 valign=3Dtop =
+style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-1<o:p></o=
+:p></span></p></td><td width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>0<o:p></o:p></=
+span></p></td><td width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:10<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Child: =
+6<o:p></o:p></span></p></td><td width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:30<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif;color:red'>Trip=
+ Discount if :<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>PASSENGER =
+&gt;2<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>With<o:p></o:p=
+></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>20% discount =
+on TOTAL<o:p></o:p></span></p></td><td width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:45<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o=
+:p></span></p></td><td width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:60<o:p>=
+</o:p></span></p></td></tr><tr><td width=3D54 valign=3Dtop =
+style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-2<o:p></o=
+:p></span></p></td><td width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:50<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o=
+:p></span></p></td><td width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>0<o:p></o:p></=
+span></p></td><td width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:60<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Child:40<o:p><=
+/o:p></span></p></td><td width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:80<o:p>=
+</o:p></span></p></td><td width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:70<o:p>=
+</o:p></span></p></td></tr><tr><td width=3D54 valign=3Dtop =
+style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-3<o:p></o=
+:p></span></p></td><td width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:80<o:p>=
+</o:p></span></p></td><td width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:70<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o=
+:p></span></p></td><td width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>0<o:p></o:p></=
+span></p></td><td width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:40<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Child:20<o:p><=
+/o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif;color:red'>Trip=
+ Discount </span><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>if =
+:<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>PASSENGER =
+&gt;2<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>With<o:p></o:p=
+></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>20% discount =
+on ADULT<o:p></o:p></span></p></td><td width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:20<o:p>=
+</o:p></span></p></td></tr><tr><td width=3D54 valign=3Dtop =
+style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stop-4<o:p></o=
+:p></span></p></td><td width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:90<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif;color:red'>Trip=
+ Discount </span><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>if =
+:<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>PASSENGER =
+&gt;2<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>With<o:p></o:p=
+></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>20% discount =
+on CHILD<o:p></o:p></span></p></td><td width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:30<o:p>=
+</o:p></span></p></td><td width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:10<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o=
+:p></span></p></td><td width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>0<o:p></o:p></=
+span></p></td><td width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:50<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o=
+:p></span></p></td></tr><tr><td width=3D54 valign=3Dtop =
+style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Stip-5<o:p></o=
+:p></span></p></td><td width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:100<o:p=
+></o:p></span></p></td><td width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:20<o:p>=
+</o:p></span></p></td><td width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:5<o:p><=
+/o:p></span></p></td><td width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Adults:60<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>Child:20<o:p><=
+/o:p></span></p></td><td width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Calibri",sans-serif'>0<o:p></o:p></=
+span></p></td></tr></table><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</=
+o:p></span></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+style=3D'border-collapse:collapse'><tr><td width=3D126 valign=3Dtop =
+style=3D'width:94.25pt;border:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Story<o:p></o=
+:p></span></p></td><td width=3D498 valign=3Dtop =
+style=3D'width:373.25pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Description<o=
+:p></o:p></span></p></td></tr><tr style=3D'height:20.65pt'><td =
+width=3D126 valign=3Dtop style=3D'width:94.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:20.65pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>S3-Story5<o:p=
+></o:p></span></p></td><td width=3D498 valign=3Dtop =
+style=3D'width:373.25pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt;height:20.65pt'><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Apply =
+discount as mentioned for the =
+route.<o:p></o:p></span></p></td></tr><tr><td width=3D126 valign=3Dtop =
+style=3D'width:94.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>S3-Story6<o:p=
+></o:p></span></p></td><td width=3D498 valign=3Dtop =
+style=3D'width:373.25pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Handle =
+exception for all the user input. Give user appropriate information to =
+correct the input and continue with the =
+program.<o:p></o:p></span></p></td></tr><tr><td width=3D126 valign=3Dtop =
+style=3D'width:94.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>S3-Story7<o:p=
+></o:p></span></p></td><td width=3D498 valign=3Dtop =
+style=3D'width:373.25pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Handle =
+exception for all the input given in the flat file. Give user =
+appropriate information to correct the input and continue with the =
+program.<o:p></o:p></span></p></td></tr></table><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>From:</span><=
+/b><span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'> =
+Senthilnathan D [<a =
+href=3D"mailto:dsnathan@mirafra.com">mailto:dsnathan@mirafra.com</a>] =
+<br><b>Sent:</b> Tuesday, November 7, 2017 5:47 PM<br><b>To:</b> =
+'Esg-python@mirafra.com' &lt;<a =
+href=3D"mailto:Esg-python@mirafra.com">Esg-python@mirafra.com</a>&gt;<br>=
+<b>Subject:</b> Exercise-1: Python: End Date: 9th Nov =
+2017<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Exercise: =
+1: <o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Sprint: =
+1<o:p></o:p></p><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 style=3D'border-collapse:collapse'><tr><td width=3D54 =
+valign=3Dtop style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td><td =
+width=3D114 valign=3Dtop style=3D'width:85.5pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-1</span><o:p></o:p></p></td><td =
+width=3D106 valign=3Dtop style=3D'width:79.85pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-2</span><o:p></o:p></p></td><td =
+width=3D119 valign=3Dtop style=3D'width:88.95pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-3</span><o:p></o:p></p></td><td =
+width=3D113 valign=3Dtop style=3D'width:84.4pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-4</span><o:p></o:p></p></td><td =
+width=3D118 valign=3Dtop style=3D'width:88.55pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-5</span><o:p></o:p></p></td></tr><tr><td =
+width=3D54 valign=3Dtop style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-1</span><o:p></o:p></p></td><td =
+width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>0</span><o:p></o:p></p></td><td width=3D106 =
+valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:10</span><o:p></o:p></p></td><td =
+width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:30</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td><td =
+width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:45</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td><td =
+width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:60</span><o:p></o:p></p></td></tr><tr><t=
+d width=3D54 valign=3Dtop style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-2</span><o:p></o:p></p></td><td =
+width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:50</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td><td =
+width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>0</span><o:p></o:p></p></td><td width=3D119 =
+valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:60</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td><td =
+width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:80</span><o:p></o:p></p></td><td =
+width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:70</span><o:p></o:p></p></td></tr><tr><t=
+d width=3D54 valign=3Dtop style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-3</span><o:p></o:p></p></td><td =
+width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:80</span><o:p></o:p></p></td><td =
+width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:70</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td><td =
+width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>0</span><o:p></o:p></p></td><td width=3D113 =
+valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:40</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td><td =
+width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:20</span><o:p></o:p></p></td></tr><tr><t=
+d width=3D54 valign=3Dtop style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-4</span><o:p></o:p></p></td><td =
+width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:90</span><o:p></o:p></p></td><td =
+width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:30</span><o:p></o:p></p></td><td =
+width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:10</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td><td =
+width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>0</span><o:p></o:p></p></td><td width=3D118 =
+valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:50</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td></tr><tr><td =
+width=3D54 valign=3Dtop style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stip-5</span><o:p></o:p></p></td><td =
+width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:100</span><o:p></o:p></p></td><td =
+width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:20</span><o:p></o:p></p></td><td =
+width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:5</span><o:p></o:p></p></td><td =
+width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:60</span><o:p></o:p></p></td><td =
+width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>0</span><o:p></o:p></p></td></tr></table><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 style=3D'border-collapse:collapse'><tr><td width=3D208 =
+valign=3Dtop style=3D'width:155.8pt;border:solid windowtext =
+1.0pt;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>&nbsp;<o:p></o:p></p></td><td =
+width=3D208 valign=3Dtop style=3D'width:155.85pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>Min age<o:p></o:p></p></td><td =
+width=3D208 valign=3Dtop style=3D'width:155.85pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>Max =
+age<o:p></o:p></p></td></tr><tr><td width=3D208 valign=3Dtop =
+style=3D'width:155.8pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>Adult<o:p></o:p></p></td><td =
+width=3D208 valign=3Dtop =
+style=3D'width:155.85pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>13<o:p></o:p></p></td><td width=3D208 =
+valign=3Dtop =
+style=3D'width:155.85pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>60<o:p></o:p></p></td></tr></table><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 style=3D'border-collapse:collapse'><tr><td width=3D126 =
+valign=3Dtop style=3D'width:94.25pt;border:solid windowtext =
+1.0pt;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>Story<o:p></o:p></p></td><td =
+width=3D498 valign=3Dtop style=3D'width:373.25pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>Description<o:p></o:p></p></td></tr><tr=
+><td width=3D126 valign=3Dtop style=3D'width:94.25pt;border:solid =
+windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'>S1-Story1: =
+Booking<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>&nbsp;<o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>&nbsp;<o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>&nbsp;<o:p></o:p></p></td><td =
+width=3D498 valign=3Dtop =
+style=3D'width:373.25pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>User shall be prompted to give the =
+below information. Based on the user input the ticket shall be =
+calculated based on the following:<o:p></o:p></p><p =
+class=3DMsoListParagraphCxSpFirst =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;mso-add-space:auto;text-=
+indent:-.25in'>1.<span =
+style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span>Starting and ending stops<o:p></o:p></p><p =
+class=3DMsoListParagraphCxSpLast =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;mso-add-space:auto;text-=
+indent:-.25in'>2.<span =
+style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span>Age of the passengers <o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>If the age below the min age and above =
+max age shall be getting 50% =
+discount.<o:p></o:p></p></td></tr></table><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Sprint: =
+2<o:p></o:p></p><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 style=3D'border-collapse:collapse'><tr><td width=3D54 =
+valign=3Dtop style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td><td =
+width=3D114 valign=3Dtop style=3D'width:85.5pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-1</span><o:p></o:p></p></td><td =
+width=3D106 valign=3Dtop style=3D'width:79.85pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-2</span><o:p></o:p></p></td><td =
+width=3D119 valign=3Dtop style=3D'width:88.95pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-3</span><o:p></o:p></p></td><td =
+width=3D113 valign=3Dtop style=3D'width:84.4pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-4</span><o:p></o:p></p></td><td =
+width=3D118 valign=3Dtop style=3D'width:88.55pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-5</span><o:p></o:p></p></td></tr><tr><td =
+width=3D54 valign=3Dtop style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-1</span><o:p></o:p></p></td><td =
+width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>0</span><o:p></o:p></p></td><td width=3D106 =
+valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:10</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Child: 6</span><o:p></o:p></p></td><td =
+width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:30</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td><td =
+width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:45</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td><td =
+width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:60</span><o:p></o:p></p></td></tr><tr><t=
+d width=3D54 valign=3Dtop style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-2</span><o:p></o:p></p></td><td =
+width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:50</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td><td =
+width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>0</span><o:p></o:p></p></td><td width=3D119 =
+valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:60</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Child:40</span><o:p></o:p></p></td><td =
+width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:80</span><o:p></o:p></p></td><td =
+width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:70</span><o:p></o:p></p></td></tr><tr><t=
+d width=3D54 valign=3Dtop style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-3</span><o:p></o:p></p></td><td =
+width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:80</span><o:p></o:p></p></td><td =
+width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:70</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td><td =
+width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>0</span><o:p></o:p></p></td><td width=3D113 =
+valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:40</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Child:20</span><o:p></o:p></p></td><td =
+width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:20</span><o:p></o:p></p></td></tr><tr><t=
+d width=3D54 valign=3Dtop style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stop-4</span><o:p></o:p></p></td><td =
+width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:90</span><o:p></o:p></p></td><td =
+width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:30</span><o:p></o:p></p></td><td =
+width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:10</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td><td =
+width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>0</span><o:p></o:p></p></td><td width=3D118 =
+valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:50</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>&nbsp;</span><o:p></o:p></p></td></tr><tr><td =
+width=3D54 valign=3Dtop style=3D'width:40.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Stip-5</span><o:p></o:p></p></td><td =
+width=3D114 valign=3Dtop =
+style=3D'width:85.5pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:100</span><o:p></o:p></p></td><td =
+width=3D106 valign=3Dtop =
+style=3D'width:79.85pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:20</span><o:p></o:p></p></td><td =
+width=3D119 valign=3Dtop =
+style=3D'width:88.95pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:5</span><o:p></o:p></p></td><td =
+width=3D113 valign=3Dtop =
+style=3D'width:84.4pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt'><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Adults:60</span><o:p></o:p></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>Child:20</span><o:p></o:p></p></td><td =
+width=3D118 valign=3Dtop =
+style=3D'width:88.55pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><span =
+style=3D'font-size:9.0pt'>0</span><o:p></o:p></p></td></tr></table><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 style=3D'border-collapse:collapse'><tr><td width=3D208 =
+valign=3Dtop style=3D'width:155.8pt;border:solid windowtext =
+1.0pt;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>&nbsp;<o:p></o:p></p></td><td =
+width=3D208 valign=3Dtop style=3D'width:155.85pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>Min age<o:p></o:p></p></td><td =
+width=3D208 valign=3Dtop style=3D'width:155.85pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>Max =
+age<o:p></o:p></p></td></tr><tr><td width=3D208 valign=3Dtop =
+style=3D'width:155.8pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>Adult<o:p></o:p></p></td><td =
+width=3D208 valign=3Dtop =
+style=3D'width:155.85pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>13<o:p></o:p></p></td><td width=3D208 =
+valign=3Dtop =
+style=3D'width:155.85pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>60<o:p></o:p></p></td></tr><tr><td =
+width=3D208 valign=3Dtop style=3D'width:155.8pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>Child<o:p></o:p></p></td><td =
+width=3D208 valign=3Dtop =
+style=3D'width:155.85pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>5<o:p></o:p></p></td><td width=3D208 =
+valign=3Dtop =
+style=3D'width:155.85pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>12<o:p></o:p></p></td></tr></table><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 style=3D'border-collapse:collapse'><tr><td width=3D126 =
+valign=3Dtop style=3D'width:94.25pt;border:solid windowtext =
+1.0pt;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>Story<o:p></o:p></p></td><td =
+width=3D498 valign=3Dtop style=3D'width:373.25pt;border:solid windowtext =
+1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>Description<o:p></o:p></p></td></tr><tr=
+><td width=3D126 valign=3Dtop style=3D'width:94.25pt;border:solid =
+windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'>S2-Story2: =
+Booking<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>&nbsp;<o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>&nbsp;<o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>&nbsp;<o:p></o:p></p></td><td =
+width=3D498 valign=3Dtop =
+style=3D'width:373.25pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>User shall be prompted to give the =
+below information. Based on the user input the ticket shall be =
+calculated based on the following:<o:p></o:p></p><p =
+class=3DMsoListParagraphCxSpFirst =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;mso-add-space:auto;text-=
+indent:-.25in'>1.<span =
+style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span>Starting and ending stops<o:p></o:p></p><p =
+class=3DMsoListParagraphCxSpLast =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;mso-add-space:auto;text-=
+indent:-.25in'>2.<span =
+style=3D'font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span>Age of the passengers <o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>Child below 5 years shall not be =
+charged and passengers above 60 shall be charged 50% of the adult =
+charges. In case Child value is not explicitly given in the table; their =
+charges shall be 50% of the adult =
+charges.<o:p></o:p></p></td></tr><tr><td width=3D126 valign=3Dtop =
+style=3D'width:94.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>S2-Story3<o:p></o:p></p></td><td =
+width=3D498 valign=3Dtop =
+style=3D'width:373.25pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>Admin shall be able to input the =
+passenger&#8217;s ticket value and age limit from an external txt file. =
+The value from the txt file shall be taken to fill the ticketing =
+table.<o:p></o:p></p></td></tr><tr><td width=3D126 valign=3Dtop =
+style=3D'width:94.25pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>S2-Story4<o:p></o:p></p></td><td =
+width=3D498 valign=3Dtop =
+style=3D'width:373.25pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in =
+5.4pt 0in 5.4pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'>Admin shall be able to modify the =
+passenger&#8217;s ticket value programmatically and the same shall be =
+updated in the external txt file. When the program is reopened the =
+previous made in passenger&#8217;s ticket shall be =
+retained.<o:p></o:p></p></td></tr></table><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</=
+o:p></span></p></div></body></html>
+------=_NextPart_000_0111_01D3596F.3C2620D0--
+

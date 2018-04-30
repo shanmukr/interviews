@@ -1,0 +1,20 @@
+Test Specification Sheet Tool Development :
+
+Technology : MS SHAREPOINT,PERL.
+
+Platform : Linux.
+
+Description :
+This Tool provides an utility to create or update or remove the test program details
+stored in version controlled xml files.
+
+Responsibilities :
+
+ Writing perl wrapper scripts to update or create or remove the project revision test
+program results stored in version controlled xml files.
+ Generate phasing reports for various project revision tests on daily basis with cron
+job.
+ Sync the test program results updated by various users across different servers.
+ Developed Perl/Tk GUI utility to update the test program results.
+Providing support to various issues, raising jira tickets for all the issues raised by
+engineers.
